@@ -19,7 +19,7 @@ describe('demo', function(){
         //let r = element(by.cssContainingText('.ng-binding', '7'));
         //expect(r.getText()).toEqual('7');
         h1.func4('10');
-        browser.sleep(2000);        
+        browser.sleep(4000);        
     });
 
     it('testcase2', function(){
